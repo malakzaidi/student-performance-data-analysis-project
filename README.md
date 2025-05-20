@@ -130,10 +130,6 @@ Our rigorous data science pipeline ensures robust analysis and actionable outcom
 
 ## 🔍 Key Findings
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e9c74b8e-9f4a-4eaa-9431-0ca5c7c2ab75" width="700px" alt="Key Findings">
-</div>
-
 Our analysis revealed several critical insights into student performance:
 
 ### 1. 💡 Engagement is the Cornerstone of Success
@@ -233,60 +229,70 @@ Our analysis is supported by comprehensive visualizations that reveal hidden pat
 </div>
 
 1. **Global Dashboard** 🌐
+
    ![Image](https://github.com/user-attachments/assets/8445db31-2448-44f5-86ec-b05b098d0e90)
    - 24% of students are at risk (`L` class)
    - 74% achieve success (`M` or `H` class)
    - Moderate engagement (44.54/100) indicates improvement potential
 
 2. **Performance by Nationality** 🌍
+
    ![Image](https://github.com/user-attachments/assets/5bf6d02e-117d-46c9-b9c9-3950f8917300)
    - Kuwaiti students lead with highest performance metrics
    - Cultural and educational factors influence national performance patterns
    - Gender performance gaps vary by nationality
 
 3. **Factors of Influence** 🔑
+
    ![Image](https://github.com/user-attachments/assets/3f3c7ab7-fe8b-4b97-ab34-af5d355b7670)
    - Engagement metrics dominate performance prediction
    - Resource visits and hand-raising are top influencers
    - Absences and parental involvement are significant secondary factors
 
 4. **Interactive Filters** 🎛️
-   ![Image](https://github.com/user-attachments/assets/17dd60d3-46e7-4644-9a43-039f2e5eeda0)
+
+    ![Image](https://github.com/user-attachments/assets/17dd60d3-46e7-4644-9a43-039f2e5eeda0)
    - Granular analysis through dynamic filtering
    - Subject-specific performance patterns emerge
    - Temporal and demographic trends provide actionable context
 
 5. **Engagement Pattern Analysis** 📊
+
    ![Image](https://github.com/user-attachments/assets/7910311b-821a-4ca2-be67-4115168237fe)
    - Clear engagement thresholds predict performance levels
    - Gender-specific engagement patterns highlight differing needs
    - Trend lines show steeper improvement for girls with increasing engagement
 
 6. **Performance vs. Absence Analysis** 🕰️
+
    ![Image](https://github.com/user-attachments/assets/e2211c71-f7c8-42ce-87df-eda2ed2bd6f8)
    - Absences compound over time with greater second-semester impact
    - Attendance is a key modifiable factor for performance improvement
    - First-semester absences may reflect adjustment challenges
 
 7. **Absence Impact Dashboard** 🚨
+
    ![Image](https://github.com/user-attachments/assets/180e6eae-ccf2-4392-8bc0-6b5df9ef3c93)
    - Strong correlation between absences and failure
    - Consistent attendance aligns with success
    - Second-semester improvements indicate effective interventions
 
 8. **Adjusted Engagement Dashboard** ⚙️
+
    ![Image](https://github.com/user-attachments/assets/696b16f3-dad4-4968-8577-9fb1405f63da)
    - Normalized engagement metrics provide fair comparison
    - Risk flagging enables proactive intervention
    - Significant room for engagement improvement (48.99/100)
 
 9. **Engagement Recommendations** 💡
+
    ![Image](https://github.com/user-attachments/assets/f0881a81-afb1-430e-b986-2bd1cab08022)
    - Personalized, actionable recommendations by engagement level
    - Tiered approach ensures relevance for all students
    - Integrated guidance for educators and students
 
 10. **Report's QR Code** 🔗
+
     ![Image](https://github.com/user-attachments/assets/1143b71b-fb51-4683-a421-bb24739065a9)
     - Direct access to interactive Power BI dashboards
     - Enables stakeholder exploration and decision-making
@@ -336,10 +342,6 @@ Based on our findings, we propose these evidence-based strategies to enhance stu
 - Deploy real-time monitoring systems for proactive intervention
 
 ## 🚀 How to Run the Project
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/12ef6d8c-1b57-4a09-9c3e-d2e7fdb9e48c" width="700px" alt="Project Setup">
-</div>
 
 Get started with our analysis by following these steps:
 
@@ -408,10 +410,6 @@ We envision several directions to expand this research:
 
 ## 🙏 Acknowledgments
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6e9d3f1c-5a8b-4e2d-b7fa-f1d9c4a8e0b7" width="300px" alt="Acknowledgments">
-</div>
-
 We extend our sincere gratitude to:
 
 - **ENSET, University Hassan II, Casablanca** for institutional support
@@ -420,10 +418,6 @@ We extend our sincere gratitude to:
 - **Microsoft** for Power BI's powerful visualization capabilities
 
 ## 📬 Contact
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3a9c2d8e-1f5b-4e7a-b8ef-d4e8c7f6b09a" width="300px" alt="Contact">
-</div>
 
 Have questions or want to collaborate? Reach out to us:
 
