@@ -20,10 +20,6 @@
 
 Welcome to the **Student Performance Data Analysis Project**, a cutting-edge data science initiative that transforms educational outcomes through advanced analytics. Conducted as part of the Digital Culture module in the Master's program in Distributed Systems and Artificial Intelligence (SDIA) at ENSET, University Hassan II, Casablanca, this project leverages the power of **Python** 🐍 and **Power BI** 📈 to deliver actionable insights into student performance.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c8f542d7-1c82-4f5e-a5bf-3ba6c8e91e5c" width="700px" alt="Tech Stack">
-</div>
-
 By analyzing a comprehensive dataset of student records, we identify key factors influencing academic success, uncover hidden patterns in performance metrics, and provide evidence-based recommendations for educational enhancement. Our innovative approach combines:
 
 - 🧠 **Advanced Machine Learning** techniques for predictive modeling
@@ -125,10 +121,6 @@ Our rigorous data science pipeline ensures robust analysis and actionable outcom
 
 ### Interactive Visualization
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4d8e9f1a-3a5d-42e9-8a4a-d2eb8e8befe6" width="150px" alt="Interactive Visualization">
-</div>
-
 - **Tool**: Power BI
 - **Features**:
   - Interactive filters for dynamic data exploration
@@ -191,10 +183,6 @@ Our analysis revealed several critical insights into student performance:
 Our analysis is supported by comprehensive visualizations that reveal hidden patterns and relationships:
 
 ### Python Visualizations
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3fab89e3-c67e-4c5e-ae0e-5f51b2b3f75c" width="250px" alt="Python Viz">
-</div>
 
 1. **Distribution of Raised Hands by Failure Status** 📈
    ![Image](https://github.com/user-attachments/assets/4225fa2e-52cd-44b0-a683-de937c21e472)
@@ -307,7 +295,7 @@ Our analysis is supported by comprehensive visualizations that reveal hidden pat
 ## 💡 Recommendations
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8cde4f7a-6b9b-4a23-9a35-a2f6d8e3f8b5" width="700px" alt="Recommendations">
+  <img src="https://github.com/user-attachments/assets/dbe75b87-df1b-4568-96e2-76f7c72f5a8a" width="700px" alt="Recommendations">
 </div>
 
 Based on our findings, we propose these evidence-based strategies to enhance student performance:
@@ -377,8 +365,11 @@ cd student-performance-data-analysis-project
   - Visualization generation
 
 ### 4. 📊 Explore Power BI Dashboards
+
 - Open `powerbi/student_performance_report.pbix`
+  
 - Access the published report: [Power BI Report](https://app.powerbi.com/groups/me/reports/6f971c6e-b5fc-4af1-ac68-f50bd214014e?ctid=2ec11419-847c-4e29-8815-7f5b2fed9339&pbi_source=linkShare)
+  
 - Use interactive filters to explore insights
 
 ### 5. 📂 Access Dataset
@@ -387,10 +378,6 @@ cd student-performance-data-analysis-project
 - Enriched: `data/student_data_enriched.csv`
 
 ## 🔮 Future Work
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9ed28f5a-b3e5-4a8c-b1f7-d2e4a7c6f9d3" width="700px" alt="Future Work">
-</div>
 
 We envision several directions to expand this research:
 
